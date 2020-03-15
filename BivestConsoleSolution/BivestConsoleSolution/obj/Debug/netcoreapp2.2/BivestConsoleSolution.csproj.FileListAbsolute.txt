@@ -1,0 +1,11 @@
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\bin\Debug\netcoreapp2.2\BivestConsoleSolution.deps.json
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\bin\Debug\netcoreapp2.2\BivestConsoleSolution.runtimeconfig.json
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\bin\Debug\netcoreapp2.2\BivestConsoleSolution.runtimeconfig.dev.json
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\bin\Debug\netcoreapp2.2\BivestConsoleSolution.dll
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\bin\Debug\netcoreapp2.2\BivestConsoleSolution.pdb
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.csprojAssemblyReference.cache
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.csproj.CoreCompileInputs.cache
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.AssemblyInfoInputs.cache
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.AssemblyInfo.cs
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.dll
+C:\Users\mkansim\source\repos\BivestConsoleSolution\BivestConsoleSolution\obj\Debug\netcoreapp2.2\BivestConsoleSolution.pdb
